@@ -1,4 +1,4 @@
-package behavioral.strategy.interfaces;
+package behavioral.strategy.example.vehicle.interfaces;
 
 public abstract class Vehicle {
      DriveStrategy driveStrategy;

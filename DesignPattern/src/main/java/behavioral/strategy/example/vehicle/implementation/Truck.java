@@ -1,7 +1,7 @@
-package behavioral.strategy.implementation;
+package behavioral.strategy.example.vehicle.implementation;
 
-import behavioral.strategy.interfaces.DriveStrategy;
-import behavioral.strategy.interfaces.Vehicle;
+import behavioral.strategy.example.vehicle.interfaces.DriveStrategy;
+import behavioral.strategy.example.vehicle.interfaces.Vehicle;
 
 public class Truck extends Vehicle {
 

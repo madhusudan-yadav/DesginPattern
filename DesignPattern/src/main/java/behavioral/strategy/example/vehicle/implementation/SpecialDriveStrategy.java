@@ -1,6 +1,6 @@
-package behavioral.strategy.implementation;
+package behavioral.strategy.example.vehicle.implementation;
 
-import behavioral.strategy.interfaces.DriveStrategy;
+import behavioral.strategy.example.vehicle.interfaces.DriveStrategy;
 
 public class SpecialDriveStrategy extends DriveStrategy {
     @Override
